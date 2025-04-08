@@ -28,4 +28,5 @@ isort = "^6.0.1"
 taskipy = "^1.14.1"
 selenium = "^4.31.0"
 mysql-connector-python = "^9.2.0"
+python-dotenv = "^1.1.0"
 
